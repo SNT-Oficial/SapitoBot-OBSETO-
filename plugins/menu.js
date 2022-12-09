@@ -33,7 +33,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, command, isPrems }) =
     var pweb = wjson.nk_media || imgw
     var textweb = wjson.nk_txt
     } catch (e) {
-    var pweb = await conn.profilePictureUrl(conn.user.jid).catch(_ => './multimedia/imagenes/avatar_contact.png')
+    var pweb = await conn.profilePictureUrl(conn.user.jid, 'image').catch(_ => './multimedia/imagenes/avatar_contact.png')
     var textweb = ''
     }
     const message = m.reply(`_Cargando menu..._ ${textweb}`)
