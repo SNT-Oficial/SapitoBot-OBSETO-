@@ -18,7 +18,7 @@ ${M}
 ➪ *Total de chats* : _${g.length}_ ${I}
 ➪ *Version del bot* : _${BotVersion}_
 ➪ *Wa-web Api* : _https://github.com/adiwajshing/Baileys_
-➪ *Sc - Github* : _https://github.com/Ne-Kosmic/NK-BOT-MD_
+➪ *Sc - Github* : _https://github.com/Micasatio/Sspito_
 ➪ *Total de plugins* : _${Object.keys(t).length}_
 ➪ *Velocidad de procesamiento* : _${P} s..._
 ➪ *Velocidad de conexion* : _${k.toFixed(4)}ms..._
