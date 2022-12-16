@@ -1,7 +1,7 @@
 import { execSync } from 'child_process'
 
 let handler = async (m) => {
-var update = execSync('git remote set-url origin https://github.com/NeKosmic/NK-BOT-MD.git && git pull')
+var update = execSync('git remote set-url origin https://github.com/Micasatio/Sapito.git && git pull')
 m.reply(update.toString())
 }
 
