@@ -15,11 +15,11 @@ const dPkg = require(join(__dirname, './package.json'))
 //
 global.MultiNK = es; //Lenguaje nativo
 global.Propietario = dPkg.author.name
-global.OwnerNum = '51995386439'
-global.PaisPrefix = '51'
+global.OwnerNum = '595983186566'
+global.PaisPrefix = '595'
 global.Prefijo = '.'
-global.MyApiKey = 'Sapiti' //zzz
-global.NombreDelBot = 'Sapito-Bit' //vMD
+global.MyApiKey = 'Sapito' //zzz
+global.NombreDelBot = 'Sapito-Bot' //vMD
 global.BotVersion = dPkg.version
 global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/@BadBunnyPR\n\n[ f ] Página de Facebook:\n- https://youtube.com/@BadBunnyPR/\n\n[Ꮄ] Tiktok:\n- https://youtube.com/@BadBunnyPRN/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
 global.UsLimitesCmd = '20'
