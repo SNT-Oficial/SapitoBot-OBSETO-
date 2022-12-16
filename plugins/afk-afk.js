@@ -1,6 +1,4 @@
-/**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
-**/
+
 import db from '../lib/database.js'
 
 let handler = async (m, { text, conn }) => {
