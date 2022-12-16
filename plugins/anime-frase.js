@@ -1,6 +1,4 @@
-/**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
-**/
+
 let handler = async (m, { conn }) => { 
 	let usimg = await conn.profilePictureUrl(m.sender, 'image').catch(_ => './multimedia/imagenes/avatar_contact.png')
 try {
