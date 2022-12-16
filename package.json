@@ -1,7 +1,7 @@
 {
-    "name": "NK-BOT",
+    "name": "Sapito_Bot",
     "version": "1.0.0",
-    "description": "WhatsApp bot NK versión Multidevice espero te guste :3",
+    "description": "WhatsApp bot sapito versión Multidevice espero te guste UwU",
     "main": "nkbot.js",
     "type": "module",
     "directories": {
