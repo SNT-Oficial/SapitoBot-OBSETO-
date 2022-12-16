@@ -26,7 +26,7 @@ await conn.sendMessage(m.chat, { text: `║❂ Cliente: ${pushname}
 ║❂ Base de datos: ${rtotalreg} a ${totalreg}
 ║❂ Tiempo activo: ${timeString(process.uptime())}
 ║❂ Version del bot: ${_package.version}
-║❂ Dueño del bot: ${_package.author.name}
+║❂ Dueño del bot: SNT
 ║❂ Prefijo único: 「 ${Prefijo} 」
 `, buttonText: "Seleccione un menu ✓ ", sections }, { quoted:m})
 reacMoji(m.chat, conn, '🐸', m)
