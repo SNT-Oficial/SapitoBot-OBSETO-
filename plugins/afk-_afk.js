@@ -3,7 +3,7 @@ import db from '../lib/database.js'
 export function before(m) {
     let user = db.data.users[m.sender]
     if (user.afk > -1) {
-        m.reply(`📲 *Dejaste de estar AFK después de ${(new Date - user.afk).toTimeString()}*\nBienvenid@ de vuelta!!! :D`.trim())
+        m.reply(`📲 *Dejaste de estar AFK después de ${(new Date - user.afk).toTimeString()}*\nBienvenid@ de vuelta amor `.trim())
         user.afk = -1
         user.afkReason = ''
     }
