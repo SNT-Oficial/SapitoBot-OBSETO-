@@ -26,5 +26,5 @@ for (let file of files) {
     })
     if (error) assert.ok(error.length < 1, file + '\n\n' + error)
     assert.ok(file)
-    console.log(chalk.green('[✓] Hecho', file, '\n'))
+    console.log(chalk.green('[✓] listo', file, '\n'))
 }
