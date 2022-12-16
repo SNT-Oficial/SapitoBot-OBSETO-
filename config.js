@@ -1,5 +1,5 @@
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ || https://github.com)Micasatio/ ]
 **/
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -18,10 +18,10 @@ global.Propietario = dPkg.author.name
 global.OwnerNum = '51995386439'
 global.PaisPrefix = '51'
 global.Prefijo = '.'
-global.MyApiKey = 'nekosmic' //zzz
-global.NombreDelBot = 'NK-BOT' //vMD
+global.MyApiKey = 'Sapiti' //zzz
+global.NombreDelBot = 'Sapito-Bit' //vMD
 global.BotVersion = dPkg.version
-global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA\n\n[ f ] Página de Facebook:\n- https://fb.watch/b7pj-i5ejP/\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com/ZMLjAbySN/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
+global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/@BadBunnyPR\n\n[ f ] Página de Facebook:\n- https://youtube.com/@BadBunnyPR/\n\n[Ꮄ] Tiktok:\n- https://youtube.com/@BadBunnyPRN/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
 global.UsLimitesCmd = '20'
 global.MinimoDeUsuarios = '2'
 global.FakeList = ['20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '7', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99'] //Aqui pueden colocar los números falsos o que no les agrade, seran eliminados automáticamente :v //
