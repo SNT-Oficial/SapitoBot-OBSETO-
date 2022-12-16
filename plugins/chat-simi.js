@@ -1,6 +1,6 @@
 import fetch from 'node-fetch'
 let handler = async (m, { text, command }) => {
-	if (!text) return m.reply(`Y el texto ...?`)
+	if (!text) return m.reply(`Y el texto ...?xd`)
 try {
 	let chatsimi = await fetchJson(`https://api.simsimi.net/v2/?text=${encodeURIComponent(text)}&lc=`+MultiNK.Lengua())
 	m.reply(chatsimi.success?chatsimi.success:'-')
