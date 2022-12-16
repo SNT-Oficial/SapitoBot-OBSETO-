@@ -59,8 +59,8 @@ Para nuevos desde cero en termux.apk:
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone [URL_DEL_REPOSITORIO_ACTUAL] 
-> cd NK-BOT-MD
+> git clone https://github.com/Micasatio/Sapito
+> cd Sapito
 > yarn
 > npm start
 
