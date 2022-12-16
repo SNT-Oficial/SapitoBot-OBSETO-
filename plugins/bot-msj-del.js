@@ -17,6 +17,6 @@ if (isBotAdmin && isAdmin) {
 
 handler.help = ['suprimir']
 handler.tags = ['grupos', 'admins']
-handler.command = /^(suprimir|del)$/i
+handler.command = /^(suprimir|wapa|del)$/i
 
 export default handler
