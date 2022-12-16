@@ -160,6 +160,8 @@ const defaultMenu = {
 handler.help = ['menucompleto', 'menuprincipal']
 //handler.tags = ['contenido']
 handler.command = /^(menucompleto|menuprincipal)$/i
+reacMoji(m.chat, conn, '🐸', m)
+}
 
 handler.exp = 10
 
