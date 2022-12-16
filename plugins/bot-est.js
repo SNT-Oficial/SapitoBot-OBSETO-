@@ -1,6 +1,4 @@
-/**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
-**/
+
 import{generateWAMessageFromContent as t}from"@adiwajshing/baileys";import e from"../lib/database.js";let handler=async(a,{conn:i,participants:o,groupMetadata:n,isBotAdmin:s})=>{let{isBanned:c,welcome:d,detect:r,antiLink:A,antiLink2:l,delete:v,estranjerosnot:I,antifake1:u,antifake2:h,antiTraba:p,simi:X}=e.data.chats[a.chat],{restrict:m,antiPrivado:g,nkNspm:D}=e.data.settings[i.user.jid],O=i.user.id.split(":")[0]+"@s.whatsapp.net",b="@"+i.user.id.split(":")[0];"‎".repeat(850);let f=t(a.chat,{liveLocationMessage:{degreesLatitude:-4.4764769,degreesLongitude:142.4871568,caption:`
 *Grupo* : _[ ${n.subject} ]_
 
