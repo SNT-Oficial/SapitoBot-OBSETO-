@@ -1,6 +1,6 @@
 // TODO: reduce global variabel usage
 /**
-[ https://github.com/NeKosmic/ ]
+[ https://github.com/Micasatio/ ]
 **/
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 process.on('uncaughtException', console.error)
