@@ -1,6 +1,4 @@
-/**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
-**/
+
 let handler=async(a,{conn:e,text:i,command:r})=>{if(!i)return a.reply(`Que anime desea buscar?, ejemplo de uso:
 
 ${Prefijo+r} nichijou
