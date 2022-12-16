@@ -29,7 +29,7 @@ await conn.sendMessage(m.chat, { text: `║❂ Cliente: ${pushname}
 ║❂ Dueño del bot: ${_package.author.name}
 ║❂ Prefijo único: 「 ${Prefijo} 」
 `, buttonText: "Seleccione un menu ✓ ", sections }, { quoted:m})
-reacMoji(m.chat, conn, '📃', m)
+reacMoji(m.chat, conn, '🐸', m)
 }
 
 handler.help = ['menu']
