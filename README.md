@@ -1,85 +1,55 @@
-<h1 align="center">🐸 Sapito_Bot 🐸</h1>
-<br>
-<div align="center">
+# 𝕾𝖆𝖕𝖎𝖙𝖔_𝕭𝖔𝖙
+𝘽𝙤𝙩 𝙪𝙣𝙞𝙘𝙚𝙣𝙩𝙚 𝙙𝙚 𝙙𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sapito+Bot+Multidevice+nwn;Gracias+por+usar+este+bot+%3A3;%5B+How+sexy+are+you+7w7r+%5D_)](https://git.io/typing-svg)
-<img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
-</div>
-<br>
-<p align="center">
-<a href="https://tinyurl.com/Onichan7w7r"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://tinyurl.com/2p9kb7yd"><img title="Autor" src="https://img.shields.io/badge/Autor-SNT-orange?style=for-the-badge&logo=github"></a>
-</p>
-</details>
-</p>
+### `—◉ 👑 🅓︎🅤︎🅓︎🅐︎🅢︎ 🅢︎🅞︎🅑︎🅡︎🅔︎ 🅔︎🅛︎ 🅑︎🅞︎🅣︎?, 🅒︎🅞︎🅝︎🅣︎🅐︎🅒︎🅣︎🅐︎🅜︎🅔︎ 👑`
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/S͜͡N͜͡T͜͡-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+> NO BOT
 
-# 📖 Características del bot 
-|  Funciones y comandos  |                                           Sip |
-| :---------------------------------------------: | :-----------: |
-| Crea stickers|✔️|
-| Bienvenida automática|✔️|
-| Anti-Link|✔️|
-| Anti-Fakes|✔️|
-| Jadibot-vBeta|✔️|
-| Anti-Estranjeros|✔️|
-| Anti-Spam(Command flood)|✔️|
-| Anti-Llamadas|✔️|
-| Anti-Privados|✔️|
-| Modo Publico/Privado|✔️|
-| Herramientas de edición|✔️|
-| Creador de logos|✔️|
-| Anime|✔️|
-| Juegos|✔️|
-| Descarga de música/videos|✔️|
-| Chat-Bot|✔️|
-| Botones clásicos|✔️|
-| Random commands|✔️|
-| NSFW|🔞|
-| Más funciones en adelante|♻️|
 
-# 🪀 Instalación en varias plataformas...
+### `—◉ 𖠌 🄰🄹🅄🅂🅃🄴🅂 𖠌`
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Micasatio/SAPITO-/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Micasatio/SAPITO-/blob/master/config.js)
 
-# 📲Termux
-Para nuevos desde cero en termux.apk:
+
+### `—◉ 𖨆𝔸𝕔𝕥𝕚𝕧𝕒𝕣 𝔼𝕟 𝕋𝕖𝕣𝕞𝕦𝕩 𖨆`
 ```bash
+e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͜͡n͜͡t͜͡e͜͡s͜͡ c͜͡o͜͡m͜͡a͜͡n͜͡d͜͡o͜͡s͜͡ u͜͡n͜͡o͜͡ p͜͡o͜͡r͜͡ u͜͡n͜͡o͜͡:
+> cd
 > termux-setup-storage
-(Dan permiso a su almacenamiento)
-> termux-change-repo
-(Seleccionan todas las opciones que les aparescan en la primera ventana || En la segunda ventana seleccionan la opcion que contenga las palabras 'termux.mentality.rip' )
-> apt update -y && apt upgrade -y
-> pkg install git
-> pkg install nodejs
-> pkg install libwebp -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
-
-```
-## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
-```bash
-> git clone https://github.com/Micasatio/Sapito
-> cd Sapito
-> yarn
+> apt update 
+> apt upgrade 
+> apt install yarn 
+> apt install git -y
+> apt install nodejs -y
+> apt install ffmpeg -y
+> apt install imagemagick -y
+> git clone https://github.com/BrunoSobrino/SimpleBot
+> cd SimpleBot
+> yarn install
+> npm install
+> npm update
+> npm install
 > npm start
-
-Para detener al bot en termux:
-> Ctrl+c
 ```
 
-# 🔥 Ejecutar el bot 24/7 
-- Es aconsejable que crees una carpeta llamada "./sesiones/", luego subas el archivo de "creds.json" ya activado, para ya no tener que escanear otro código QR x'd
+### `—◉ ت︎ ᗩᑕTIᐯᗩᖇ ᗴᑎ ᑕᗩՏO ᗪᗴ ᗪᗴTᗴᑎᗴᖇՏᗴ ت︎`
+```bash
+e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͜͡n͜͡t͜͡e͜͡s͜͡ c͜͡o͜͡m͜͡a͜͡n͜͡d͜͡o͜͡s͜͡ u͜͡n͜͡o͜͡ p͜͡o͜͡r͜͡ u͜͡n͜͡o͜͡:
+> cd 
+> cd SimpleBot
+> npm start
+```
 
-## Desplegable en Railway & Heroku
-- Railway => https://railway.app/new/template?template=https://github.com/Micasatio/Sapito
+### `—◉ ⍟ 𝙤𝙗𝙩𝙚𝙣𝙚𝙧 𝙤𝙩𝙧𝙤 𝙦𝙧`
+```bash
+e͜͡s͜͡c͜͡r͜͡i͜͡b͜͡e͜͡ l͜͡o͜͡s͜͡ s͜͡i͜͡g͜͡u͜͡i͜͡e͜͡n͜͡t͜͡e͜͡s͜͡ c͜͡o͜͡m͜͡a͜͡n͜͡d͜͡o͜͡s͜͡ u͜͡n͜͡o͜͡ p͜͡o͜͡r͜͡ u͜͡n͜͡o͜͡:
+> cd 
+> cd SimpleBot
+> rm -rf session.data.json
+> npm start
+```
 
-- Heroku => https://heroku.com/deploy?template=https://github.com/Micasatio/Sapito
+## ` ➪𝘌𝘥𝘪𝘵𝘰𝘳 𝘺 𝘱𝘳𝘰𝘱𝘪𝘦𝘵𝘢𝘳𝘪𝘰 𝘥𝘦𝘭 𝘣𝘰𝘵` 
+<a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="Micasatio"/></a>
 
-# ⚡ Necesitas ayuda?, Aquí tienes mi WhatsApp :3
-
-<a href="https://wa.me/595983186566"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-# Colaborador del Bot
-
-...
+`𝔖𝔞𝔭𝔦𝔱𝔬_𝔅𝔬𝔱 _ 𝖡𝗒 丂几ㄒ✞︎`
